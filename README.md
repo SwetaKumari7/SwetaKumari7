@@ -1,173 +1,229 @@
 <div align="center">
 
-# Hi 👋 I'm Sweta Kumari
+# Hi 👋, I'm Sweta Kumari
 
 ### 🎓 B.Tech Information Technology Student | 🤖 AI & Machine Learning Enthusiast | 💻 Python Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Developer;Machine+Learning+Enthusiast;Python+Programmer;Competitive+Programming+Learner;Hackathon+Participant;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Enthusiast;Oracle+Certified+AI+Associate;Agentic+AI+Developer;Python+Developer;Hackathon+Participant;Future+Software+Engineer" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+<p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+</p>
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+# 🚀 About Me
 
-🎓 Information Technology Undergraduate
+🎓 B.Tech in Information Technology at **Asansol Engineering College**
 
-🏫 Asansol Engineering College
+🤖 Passionate about **Artificial Intelligence, Machine Learning, Computer Vision, Generative AI and Agentic AI**
 
-🤖 Passionate about Artificial Intelligence, Machine Learning and Computer Vision
+🏆 **Oracle Certified AI Foundations Associate**
 
-💻 Currently Learning
+🏆 **Oracle Certified Agentic AI Foundations Associate**
 
-- Django
-- Full Stack Development
-- Advanced DSA
-- Generative AI
+🏅 Smart India Hackathon (SIH) Participant
+
+🌱 Currently Learning
+
+- Agentic AI
+- LangChain
 - AI Agents
+- Full Stack Development
+- Django
+- Advanced DSA
+- Computer Vision
 
-🌱 Interested in
+💡 I enjoy building intelligent software that solves real-world problems in healthcare, agriculture, cybersecurity and automation.
+
+---
+
+# 🏆 Oracle Certifications
+
+## 🤖 Oracle Agentic AI Certified Foundations Associate
+
+📅 **Issued:** July 2026
+
+📅 **Valid Until:** July 2028
+
+### Skills
+
+- Agentic AI
+- AI Agent Development
+- LangChain
+- OpenAI Agents SDK
+- Model Context Protocol (MCP)
+- Oracle Cloud Infrastructure (OCI)
+- Oracle AI Database
+- Enterprise AI Agents
+
+---
+
+## ☁ Oracle Cloud Infrastructure 2025 AI Foundations Associate
+
+📅 **Issued:** August 2025
+
+📅 **Valid Until:** August 2027
+
+### Skills
 
 - Artificial Intelligence
+- Generative AI
 - Machine Learning
 - Deep Learning
-- Computer Vision
-- Cyber Security
-
-🏆 Smart India Hackathon Participant
-
-💡 I enjoy building intelligent software that solves real-world problems.
+- Prompt Engineering
+- Oracle Cloud Infrastructure
 
 ---
 
 # 🚀 Featured Projects
 
-## 🔐 Security Enhancement in Deep Learning Based Biometric Authentication
+## 🌿 AI Plant Disease Prediction
 
-> Ex-Intern Project
+An intelligent crop disease prediction system that detects diseases from plant leaf images using Deep Learning techniques.
 
-✅ CNN-based Biometric Authentication
+### Features
 
-✅ AES Encryption
-
-✅ Blockchain Integration
-
-✅ Secure Identity Verification
-
-🏆 **98.29% Authentication Accuracy**
+- 🌱 Plant Disease Detection
+- 📷 Leaf Image Classification
+- 🤖 CNN Prediction Model
+- 📊 Confidence Score
+- 📈 Disease Analysis Dashboard
 
 **Tech Stack**
 
-Python • TensorFlow • CNN • AES • Blockchain • OpenCV
+Python • TensorFlow • OpenCV • CNN • Flask
 
 ---
 
 ## 🩺 Skin Disease Detection using Deep Learning
 
-Developed an AI-powered skin disease detection system using EfficientNet-B4.
+A research-oriented deep learning project for multi-class skin disease classification.
 
-### Highlights
+### My Contribution
 
-✔ 30,000+ Images
+- 🧹 Cleaned and organized thousands of dermoscopic images
+- 🖼 Removed duplicate and poor-quality samples
+- 📝 Standardized disease labels for training
+- 📂 Structured datasets for efficient preprocessing
+- 📖 Assisted in preparing research material for journal publication
 
-✔ EfficientNet-B4
+**Tech Stack**
 
-✔ OpenCV
-
-✔ Image Preprocessing
-
-✔ Deep Learning
-
-🏆 **98% Accuracy**
+Python • TensorFlow • OpenCV • Image Processing
 
 ---
 
-## 🕵️ Fake Social Media Profile Detection & Reporting System
-### Smart India Hackathon (SIH)
+## 📄 AI Resume Analyzer
 
-Developed an AI-powered system capable of detecting fake social media accounts using machine learning.
+An AI-powered Resume Analyzer that compares resumes with job descriptions using NLP and provides ATS scores with personalized suggestions.
 
 ### Features
 
-✔ Fake Profile Detection
+- Resume Parsing
+- ATS Score Prediction
+- Skill Gap Analysis
+- Job Matching
+- Resume Feedback
+- PDF Resume Support
 
-✔ Behaviour Analysis
+**Tech Stack**
 
-✔ Random Forest
+Python • NLP • Streamlit • Machine Learning
 
-✔ Support Vector Machine (SVM)
+---
 
-✔ NLP-based Classification
+## 💬 AI Chatbot Assistant
 
-✔ Real-time Reporting Workflow
+An intelligent conversational chatbot powered by Google's Gemini API capable of answering questions with contextual understanding.
 
-✔ Team Collaboration
+### Features
 
-### 👩‍💻 My Contribution
+- AI Conversation
+- Context-aware Responses
+- Prompt Engineering
+- Fast API Integration
+- Intelligent Query Handling
 
-- AI Model Development
-- Dataset Cleaning
+**Tech Stack**
+
+Python • Gemini API • LangChain • LangGraph • FastAPI
+
+---
+
+## 🕵️ AI Fake Social Media Profile Detection
+### Smart India Hackathon (SIH)
+
+An AI-powered fake social media profile detection and reporting platform that identifies suspicious accounts using Machine Learning algorithms and behavioural analysis.
+
+### Features
+
+- Fake Profile Detection
+- Machine Learning Classification
+- Behaviour Analysis
+- Suspicious Activity Reporting
+- Dashboard Analytics
+
+### My Contribution
+
+- Data Cleaning & Preprocessing
 - Feature Engineering
-- PPT Design & Presentation
+- Assisted in AI Model Development
 - Documentation
-- Team Coordination during Presentation
+- 📊 Designed and prepared the complete project PowerPoint (PPT) for SIH presentation
+
+**Tech Stack**
+
+Python • Random Forest • SVM • NLP • Scikit-Learn
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
-## Languages
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java"/>
 </p>
 
-## AI / Machine Learning
+### AI & Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv"/>
 </p>
 
-Machine Learning
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Agentic AI
+- Generative AI
+- LangChain
+- OpenAI Agents SDK
+- Model Context Protocol (MCP)
+- NLP
+- CNN
+- Random Forest
+- SVM
 
-Deep Learning
-
-CNN
-
-Random Forest
-
-SVM
-
-NLP
-
-Computer Vision
-
-Feature Engineering
-
----
-
-## Web Development
+### Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,django" />
+<img src="https://skillicons.dev/icons?i=html,css,js,django,fastapi"/>
 </p>
 
----
-
-## Database
+### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
 </p>
 
----
-
-## Tools
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,pycharm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 </p>
 
 ---
@@ -181,65 +237,35 @@ Feature Engineering
 - Computer Networks
 - Software Engineering
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
 
 
-
----
-
-# 🌐 Connect With Me
-
-📧 Email : **sk6491388@gmail.com**
-
-💼 LinkedIn : https://www.linkedin.com/in/verma-sweta-4211a6400/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bd6e9dETeShOwqkaVM77jBQ%3D%3D
-
-💻 GitHub : https://github.com/SwetaKumari7
 
 ---
 
 # 🎯 2026 Goals
 
-✅ Master Full Stack Development
-
-✅ Contribute to Open Source
-
-✅ Crack Top Product-Based Company
-
-✅ Publish AI Research
-
-✅ Build Real-world AI Applications
+- 🤖 Build production-ready AI applications
+- 🌍 Contribute to Open Source
+- 📑 Publish AI Research
+- 🚀 Strengthen Full Stack Development
+- 💼 Secure a Software Developer role
 
 ---
 
-# ⚡ Fun Fact
+# 🌐 Connect With Me
 
-> "Artificial Intelligence isn't replacing developers.
-Developers using AI are replacing developers who don't."
+📧 **Email:** sk6491388@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/verma-sweta-4211a6400/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYDKWFxclSGy1ch%2FPZwd92w%3D%3D
+
+💻 **GitHub:** https://github.com/SwetaKumari7
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+### ⭐ Thanks for visiting my profile! ⭐
 
-If you like my projects, don't forget to ⭐ them!
+*"Learning today. Building for tomorrow."* 🚀
 
 </div>
