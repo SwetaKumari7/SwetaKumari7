@@ -201,21 +201,7 @@ Feature Engineering
 
 </p>
 
----
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=10"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
 
 ---
 
@@ -223,9 +209,9 @@ Feature Engineering
 
 📧 Email : **sk6491388@gmail.com**
 
-💼 LinkedIn : YOUR_LINKEDIN
+💼 LinkedIn : https://www.linkedin.com/in/verma-sweta-4211a6400/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bd6e9dETeShOwqkaVM77jBQ%3D%3D
 
-💻 GitHub : https://github.com/YOUR_USERNAME
+💻 GitHub : https://github.com/SwetaKumari7
 
 ---
 
