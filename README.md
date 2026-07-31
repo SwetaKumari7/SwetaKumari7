@@ -1,271 +1,102 @@
 <div align="center">
 
-# Hi 👋, I'm Sweta Kumari
+# Sweta Kumari
 
-### 🎓 B.Tech Information Technology Student | 🤖 AI & Machine Learning Enthusiast | 💻 Python Developer
+**B.Tech Information Technology Undergraduate • AI & Machine Learning Enthusiast**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Enthusiast;Oracle+Certified+AI+Associate;Agentic+AI+Developer;Python+Developer;Hackathon+Participant;Future+Software+Engineer" />
+*Exploring the intersection of artificial intelligence research, agentic systems, and practical software engineering.*
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
-</p>
+[Email](mailto:sk6491388@gmail.com) • [LinkedIn](https://www.linkedin.com/in/verma-sweta-4211a6400/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1Lc%2FSMbCS5iTVLyovM8s4g%3D%3D) • [GitHub](https://github.com/SwetaKumari7)
+
+---
 
 </div>
 
----
+## 📌 Executive Summary
 
-# 🚀 About Me
+I am a final-year Information Technology student at **Asansol Engineering College** focused on building reliable, intelligent software solutions. My work spans deep learning applications in healthcare and agriculture, natural language processing tools, and autonomous AI agents using modern LLM frameworks.
 
-🎓 B.Tech in Information Technology at **Asansol Engineering College**
-
-🤖 Passionate about **Artificial Intelligence, Machine Learning, Computer Vision, Generative AI and Agentic AI**
-
-🏆 **Oracle Certified AI Foundations Associate**
-
-🏆 **Oracle Certified Agentic AI Foundations Associate**
-
-🏅 Smart India Hackathon (SIH) Participant
-
-🌱 Currently Learning
-
-- Agentic AI
-- LangChain
-- AI Agents
-- Full Stack Development
-- Django
-- Advanced DSA
-- Computer Vision
-
-💡 I enjoy building intelligent software that solves real-world problems in healthcare, agriculture, cybersecurity and automation.
+* **Core Focus:** Agentic AI, Computer Vision, and Applied Machine Learning.
+* **Philosophy:** Clean code, research-driven development, and human-centered design over flashy aesthetics.
 
 ---
 
-# 🏆 Oracle Certifications
+## 🏆 Certifications
 
-## 🤖 Oracle Agentic AI Certified Foundations Associate
-
-📅 **Issued:** July 2026
-
-📅 **Valid Until:** July 2028
-
-### Skills
-
-- Agentic AI
-- AI Agent Development
-- LangChain
-- OpenAI Agents SDK
-- Model Context Protocol (MCP)
-- Oracle Cloud Infrastructure (OCI)
-- Oracle AI Database
-- Enterprise AI Agents
-
----
-
-## ☁ Oracle Cloud Infrastructure 2025 AI Foundations Associate
-
-📅 **Issued:** August 2025
-
-📅 **Valid Until:** August 2027
-
-### Skills
-
-- Artificial Intelligence
-- Generative AI
-- Machine Learning
-- Deep Learning
-- Prompt Engineering
-- Oracle Cloud Infrastructure
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Oracle Certified Agentic AI Foundations Associate</h3>
+      <p><b>Issued:</b> July 2026 • <b>Status:</b> Active</p>
+      <ul>
+        <li>Autonomous AI Agent Architecture & LangChain</li>
+        <li>OpenAI Agents SDK & Model Context Protocol (MCP)</li>
+        <li>Oracle Cloud Infrastructure (OCI) Enterprise AI Integration</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Oracle Cloud Infrastructure 2025 AI Foundations Associate</h3>
+      <p><b>Issued:</b> August 2025 • <b>Status:</b> Active</p>
+      <ul>
+        <li>Generative AI & Large Language Models</li>
+        <li>Deep Learning Architecture & Neural Networks</li>
+        <li>Prompt Engineering & Machine Learning Pipelines</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🌿 AI Plant Disease Prediction
+### 01. AI Fake Social Media Profile Detection
+> **Smart India Hackathon (SIH) Project**
 
-An intelligent crop disease prediction system that detects diseases from plant leaf images using Deep Learning techniques.
+An end-to-end security solution designed to identify and flag automated or deceptive social media profiles using machine learning and user behavior analytics.
 
-### Features
-
-- 🌱 Plant Disease Detection
-- 📷 Leaf Image Classification
-- 🤖 CNN Prediction Model
-- 📊 Confidence Score
-- 📈 Disease Analysis Dashboard
-
-**Tech Stack**
-
-Python • TensorFlow • OpenCV • CNN • Flask
+* **Key Contributions:** Handled data cleaning, feature engineering, and predictive model development. Designed the complete presentation architecture for SIH evaluators.
+* **Technologies:** `Python` • `Scikit-Learn` • `Random Forest` • `SVM` • `NLP`
 
 ---
 
-## 🩺 Skin Disease Detection using Deep Learning
+### 02. Skin Disease Classification & Research
+A multi-class deep learning classification project designed to assist in preliminary dermoscopic image evaluation.
 
-A research-oriented deep learning project for multi-class skin disease classification.
-
-### My Contribution
-
-- 🧹 Cleaned and organized thousands of dermoscopic images
-- 🖼 Removed duplicate and poor-quality samples
-- 📝 Standardized disease labels for training
-- 📂 Structured datasets for efficient preprocessing
-- 📖 Assisted in preparing research material for journal publication
-
-**Tech Stack**
-
-Python • TensorFlow • OpenCV • Image Processing
+* **Key Contributions:** Curated, structured, and cleaned thousands of high-resolution medical images. Conducted data standardization and assisted in drafting technical findings for journal submission.
+* **Technologies:** `Python` • `TensorFlow` • `OpenCV` • `Image Processing`
 
 ---
 
-## 📄 AI Resume Analyzer
+### 03. Plant Health & Disease Prediction
+An automated diagnostic system that detects plant pathology from leaf imagery to assist in targeted agricultural treatment.
 
-An AI-powered Resume Analyzer that compares resumes with job descriptions using NLP and provides ATS scores with personalized suggestions.
-
-### Features
-
-- Resume Parsing
-- ATS Score Prediction
-- Skill Gap Analysis
-- Job Matching
-- Resume Feedback
-- PDF Resume Support
-
-**Tech Stack**
-
-Python • NLP • Streamlit • Machine Learning
+* **Key Features:** Real-time CNN classification model paired with a lightweight web interface providing confidence metrics.
+* **Technologies:** `Python` • `TensorFlow` • `CNN` • `OpenCV` • `Flask`
 
 ---
 
-## 💬 AI Chatbot Assistant
+### 04. AI Resume Analyzer & Matcher
+An intelligent ATS evaluator that analyzes resume content against modern tech job descriptions to generate match scores and actionable skill gap insights.
 
-An intelligent conversational chatbot powered by Google's Gemini API capable of answering questions with contextual understanding.
-
-### Features
-
-- AI Conversation
-- Context-aware Responses
-- Prompt Engineering
-- Fast API Integration
-- Intelligent Query Handling
-
-**Tech Stack**
-
-Python • Gemini API • LangChain • LangGraph • FastAPI
+* **Key Features:** Natural language processing engine, automated keyphrase extraction, structured PDF parser.
+* **Technologies:** `Python` • `Streamlit` • `NLP` • `Scikit-Learn`
 
 ---
 
-## 🕵️ AI Fake Social Media Profile Detection
-### Smart India Hackathon (SIH)
+### 05. Context-Aware AI Chatbot Assistant
+A conversational agent built around Google's Gemini models with persistent context handling and structured memory routing.
 
-An AI-powered fake social media profile detection and reporting platform that identifies suspicious accounts using Machine Learning algorithms and behavioural analysis.
-
-### Features
-
-- Fake Profile Detection
-- Machine Learning Classification
-- Behaviour Analysis
-- Suspicious Activity Reporting
-- Dashboard Analytics
-
-### My Contribution
-
-- Data Cleaning & Preprocessing
-- Feature Engineering
-- Assisted in AI Model Development
-- Documentation
-- 📊 Designed and prepared the complete project PowerPoint (PPT) for SIH presentation
-
-**Tech Stack**
-
-Python • Random Forest • SVM • NLP • Scikit-Learn
+* **Key Features:** Fast streaming responses, prompt chaining, modular agent workflows.
+* **Technologies:** `Python` • `Gemini API` • `LangGraph` • `FastAPI` • `LangChain`
 
 ---
 
-# 💻 Tech Stack
+## 🛠 Tech Stack
 
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java"/>
-</p>
-
-### AI & Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv"/>
-</p>
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Agentic AI
-- Generative AI
-- LangChain
-- OpenAI Agents SDK
-- Model Context Protocol (MCP)
-- NLP
-- CNN
-- Random Forest
-- SVM
-
-### Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,django,fastapi"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
-</p>
-
----
-
-# 📚 Coursework
-
-- Data Structures & Algorithms
-- Artificial Intelligence
-- Machine Learning
-- Database Management Systems
-- Computer Networks
-- Software Engineering
-
-
-
-
----
-
-# 🎯 2026 Goals
-
-- 🤖 Build production-ready AI applications
-- 🌍 Contribute to Open Source
-- 📑 Publish AI Research
-- 🚀 Strengthen Full Stack Development
-- 💼 Secure a Software Developer role
-
----
-
-# 🌐 Connect With Me
-
-📧 **Email:** sk6491388@gmail.com
-
-💼 **LinkedIn:** https://www.linkedin.com/in/verma-sweta-4211a6400/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYDKWFxclSGy1ch%2FPZwd92w%3D%3D
-
-💻 **GitHub:** https://github.com/SwetaKumari7
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile! ⭐
-
-*"Learning today. Building for tomorrow."* 🚀
-
-</div>
+```text
+Languages     │ Python, C, C++, Java, SQL, HTML/CSS, JavaScript
+AI & ML       │ TensorFlow, OpenCV, Scikit-Learn, PyTorch, LangChain, LangGraph, MCP
+Backend       │ FastAPI, Flask, Django
+Databases     │ MySQL, SQLite
+Tools & OS    │ Git, GitHub, VS Code, Linux, OCI
