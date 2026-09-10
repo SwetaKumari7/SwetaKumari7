@@ -65,19 +65,6 @@ on secure identity verification.
 
 ## Selected Projects
 
-### SecureFaceAuth
-
-**Security Enhancement in Deep Learning Based Face Biometric Authentication**
-
-[GitHub Repository](https://github.com/SwetaKumari7/SecureFaceAuth)
-
-- Built a deep learning based face biometric authentication system.
-- Implemented preprocessing, verification, quality checks, and authentication workflows.
-- Evaluated FAR, FRR, EER, accuracy, and verification thresholds.
-
-**Technologies:** Python, TensorFlow, OpenCV, Deep Learning, Computer Vision
-
----
 
 ### AI ScamShield
 
