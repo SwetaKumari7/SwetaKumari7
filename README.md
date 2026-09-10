@@ -2,101 +2,252 @@
 
 # Sweta Kumari
 
-**B.Tech Information Technology Undergraduate • AI & Machine Learning Enthusiast**
+### B.Tech Information Technology | Software Engineering Fresher
 
-*Exploring the intersection of artificial intelligence research, agentic systems, and practical software engineering.*
+**AI/ML • Computer Vision • Cybersecurity • Python Development**
 
-[Email](mailto:sk6491388@gmail.com) • [LinkedIn](https://www.linkedin.com/in/verma-sweta-4211a6400/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1Lc%2FSMbCS5iTVLyovM8s4g%3D%3D) • [GitHub](https://github.com/SwetaKumari7)
+I build practical software systems using Python, deep learning, computer vision,
+backend development, and secure authentication technologies.
 
----
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-SwetaKumari7-black?style=flat&logo=github)](https://github.com/SwetaKumari7)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:sk6491388@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/verma-sweta-4211a640/)
 
 </div>
 
-## 📌 Executive Summary
+---
 
-I am a final-year Information Technology student at **Asansol Engineering College** focused on building reliable, intelligent software solutions. My work spans deep learning applications in healthcare and agriculture, natural language processing tools, and autonomous AI agents using modern LLM frameworks.
+## 👩‍💻 About Me
 
-* **Core Focus:** Agentic AI, Computer Vision, and Applied Machine Learning.
-* **Philosophy:** Clean code, research-driven development, and human-centered design over flashy aesthetics.
+I am a **B.Tech Information Technology student at Asansol Engineering College**
+with an interest in software engineering, artificial intelligence,
+computer vision, and cybersecurity.
+
+My projects focus on solving practical problems through:
+
+- Deep Learning and Computer Vision
+- Biometric Authentication
+- AI-based Security Applications
+- Plant Disease Detection
+- Python Backend Development
+- REST API Development
+- Database-driven Applications
+
+I enjoy understanding how systems work internally, building them from scratch,
+testing their limitations, and improving their reliability.
+
+🎓 **B.Tech Information Technology:** 2023 – 2027  
+📊 **CGPA:** 7.14 / 10  
+💡 **Primary Language:** Python
 
 ---
 
 ## 🏆 Certifications
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Oracle Certified Agentic AI Foundations Associate</h3>
-      <p><b>Issued:</b> July 2026 • <b>Status:</b> Active</p>
-      <ul>
-        <li>Autonomous AI Agent Architecture & LangChain</li>
-        <li>OpenAI Agents SDK & Model Context Protocol (MCP)</li>
-        <li>Oracle Cloud Infrastructure (OCI) Enterprise AI Integration</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Oracle Cloud Infrastructure 2025 AI Foundations Associate</h3>
-      <p><b>Issued:</b> August 2025 • <b>Status:</b> Active</p>
-      <ul>
-        <li>Generative AI & Large Language Models</li>
-        <li>Deep Learning Architecture & Neural Networks</li>
-        <li>Prompt Engineering & Machine Learning Pipelines</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### Oracle Certified Agentic AI Foundations Associate
+**Issued:** July 2026
+
+
+### Oracle Cloud Infrastructure 2025 AI Foundations Associate
+**Issued:** August 2025
+
+
+### AWS Foundation Of Prompt Engineering
+**Issued:** August 2026
+ 
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 01. AI Fake Social Media Profile Detection
-> **Smart India Hackathon (SIH) Project**
+## 01. SecureFaceAuth
+### Security Enhancement in Deep Learning Based Face Biometric Authentication
 
-An end-to-end security solution designed to identify and flag automated or deceptive social media profiles using machine learning and user behavior analytics.
+**Internship Project — Jalpaiguri Government Engineering College**  
+**18 June – 18 July**
 
-* **Key Contributions:** Handled data cleaning, feature engineering, and predictive model development. Designed the complete presentation architecture for SIH evaluators.
-* **Technologies:** `Python` • `Scikit-Learn` • `Random Forest` • `SVM` • `NLP`
+🔗 **[View Project →](https://github.com/SwetaKumari7/SecureFaceAuth)**
 
----
+A deep learning based biometric authentication system designed for secure
+identity verification using facial biometrics.
 
-### 02. Skin Disease Classification & Research
-A multi-class deep learning classification project designed to assist in preliminary dermoscopic image evaluation.
+### Key Work
 
-* **Key Contributions:** Curated, structured, and cleaned thousands of high-resolution medical images. Conducted data standardization and assisted in drafting technical findings for journal submission.
-* **Technologies:** `Python` • `TensorFlow` • `OpenCV` • `Image Processing`
+- Developed a face biometric authentication workflow using Python and deep learning.
+- Implemented face detection and image preprocessing.
+- Added biometric verification and authentication decision logic.
+- Implemented image-quality and verification checks.
+- Evaluated genuine and impostor verification scores.
+- Analyzed **FAR, FRR, EER, accuracy, and verification thresholds**.
+- Worked on presentation attack detection concepts for improved authentication security.
+- Tested and debugged model inference and image-processing components.
 
----
+### Technologies
 
-### 03. Plant Health & Disease Prediction
-An automated diagnostic system that detects plant pathology from leaf imagery to assist in targeted agricultural treatment.
-
-* **Key Features:** Real-time CNN classification model paired with a lightweight web interface providing confidence metrics.
-* **Technologies:** `Python` • `TensorFlow` • `CNN` • `OpenCV` • `Flask`
-
----
-
-### 04. AI Resume Analyzer & Matcher
-An intelligent ATS evaluator that analyzes resume content against modern tech job descriptions to generate match scores and actionable skill gap insights.
-
-* **Key Features:** Natural language processing engine, automated keyphrase extraction, structured PDF parser.
-* **Technologies:** `Python` • `Streamlit` • `NLP` • `Scikit-Learn`
+`Python` `TensorFlow` `OpenCV` `Deep Learning` `Computer Vision`
+`Biometric Authentication` `Cybersecurity`
 
 ---
 
-### 05. Context-Aware AI Chatbot Assistant
-A conversational agent built around Google's Gemini models with persistent context handling and structured memory routing.
+## 02. AI ScamShield
+### AI-Based Scam and Fraud Detection System
 
-* **Key Features:** Fast streaming responses, prompt chaining, modular agent workflows.
-* **Technologies:** `Python` • `Gemini API` • `LangGraph` • `FastAPI` • `LangChain`
+An AI-based security application focused on identifying potentially suspicious
+and fraudulent content.
+
+### Key Work
+
+- Developed a machine-learning based scam detection workflow.
+- Implemented data processing and feature analysis.
+- Built prediction and result-generation components.
+- Focused on practical cybersecurity and fraud-detection use cases.
+- Tested model predictions and application behavior.
+
+### Technologies
+
+`Python` `Machine Learning` `Scikit-learn` `Cybersecurity`
 
 ---
 
-## 🛠 Tech Stack
+## 03. BioMatch
+### Multimodal Biometric Authentication System
+
+A biometric authentication system combining **palmprint and handwritten
+signature recognition** for secure identity verification.
+
+### Key Work
+
+- Developed multimodal biometric enrollment and verification workflows.
+- Implemented image preprocessing and quality checks.
+- Combined palmprint and signature recognition.
+- Built verification-history functionality.
+- Used SQLite for user and verification data.
+- Implemented authentication thresholds and verification evaluation.
+
+### Technologies
+
+`Python` `Flask` `TensorFlow` `OpenCV` `SQLite`
+`Biometric Authentication` `Deep Learning`
+
+---
+
+## 04. PlantGuard AI
+### Deep Learning Based Plant Disease Detection
+
+🔗 **[View Project →](https://github.com/SwetaKumari7/PlantGuard-AI)**
+
+A deep learning application for classifying plant diseases from leaf images.
+
+### Key Work
+
+- Developed a CNN-based plant disease classification system.
+- Implemented image preprocessing and model inference.
+- Built a prediction workflow for plant leaf images.
+- Evaluated incorrect predictions and analyzed model limitations.
+- Developed a practical application interface around the trained model.
+
+### Technologies
+
+`Python` `TensorFlow` `Keras` `CNN`
+`Computer Vision` `OpenCV`
+
+---
+
+## 05. AI Resume Analyzer
+### AI-Powered Resume Analysis and ATS Evaluation
+
+🔗 **[View Project →](https://github.com/SwetaKumari7/AI-Resume-Analyzer)**
+
+An AI-powered application that analyzes resumes and provides structured
+feedback for technical job applications.
+
+### Features
+
+- ATS score analysis
+- Resume summary
+- Strength and weakness analysis
+- Missing skills and keywords
+- Project evaluation
+- Formatting review
+- Learning roadmap
+- Resume improvement suggestions
+- Interview question generation
+- Hiring recommendation
+
+### Technologies
+
+`Python` `Streamlit` `Google Gemini API`
+`Natural Language Processing` `PDF Processing`
+
+---
+
+# 🛠️ Technical Skills
+
+### Programming Languages
+
+`Python` `C` `C++` `JavaScript` `SQL`
+
+### Artificial Intelligence & Machine Learning
+
+`TensorFlow` `Keras` `Scikit-learn`  
+`Deep Learning` `CNN` `Image Classification` `Model Evaluation`
+
+### Computer Vision & Security
+
+`OpenCV` `Image Processing`  
+`Face Recognition` `Biometric Authentication`  
+`Palmprint Recognition` `Signature Recognition`  
+`Authentication Systems` `Cybersecurity`
+
+### Backend & Web Development
+
+`Flask` `FastAPI` `Django`  
+`REST APIs` `HTML` `CSS` `JavaScript`
+
+### Databases
+
+`MySQL` `SQLite` `SQL`
+
+### Tools & Platforms
+
+`Git` `GitHub` `VS Code` `Linux/UNIX` `Google Colab`
+
+---
+
+# 📚 Computer Science Fundamentals
+
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Operating Systems
+- Computer Networks
+- Database Management Systems
+- Software Engineering
+- Problem Solving
+
+---
+
+# 🏅 Achievements
+
+- Participated in **Smart India Hackathon (SIH)**.
+- Active problem-solving practice on **GeeksforGeeks** and **HackerRank**.
+- Built multiple practical applications across AI, computer vision,
+  cybersecurity, and software development.
+
+---
+
+# 🎯 Current Focus
+
+I am currently strengthening my skills in:
 
 ```text
-Languages     │ Python, C, C++, Java, SQL, HTML/CSS, JavaScript
-AI & ML       │ TensorFlow, OpenCV, Scikit-Learn, PyTorch, LangChain, LangGraph, MCP
-Backend       │ FastAPI, Flask, Django
-Databases     │ MySQL, SQLite
-Tools & OS    │ Git, GitHub, VS Code, Linux, OCI
+Data Structures & Algorithms
+        ↓
+Python & Software Engineering
+        ↓
+Backend Development
+        ↓
+AI / Machine Learning
+        ↓
+Computer Vision & Cybersecurity
