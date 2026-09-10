@@ -2,252 +2,224 @@
 
 # Sweta Kumari
 
-### B.Tech Information Technology | Software Engineering Fresher
+**B.Tech Information Technology | Software Engineering Fresher**
 
-**AI/ML • Computer Vision • Cybersecurity • Python Development**
+**AI/ML | Computer Vision | Cybersecurity | Python | Open Source**
 
-I build practical software systems using Python, deep learning, computer vision,
-backend development, and secure authentication technologies.
+B.Tech Information Technology student focused on building practical software
+systems using artificial intelligence, computer vision, backend development,
+and secure authentication technologies.
 
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-SwetaKumari7-black?style=flat&logo=github)](https://github.com/SwetaKumari7)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:sk6491388@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/verma-sweta-4211a640/)
+[GitHub](https://github.com/SwetaKumari7) •
+[LinkedIn](https://www.linkedin.com/in/verma-sweta-4211a640/) •
+[Email](mailto:sk6491388@gmail.com)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## About
 
-I am a **B.Tech Information Technology student at Asansol Engineering College**
-with an interest in software engineering, artificial intelligence,
-computer vision, and cybersecurity.
+I am a B.Tech Information Technology student at **Asansol Engineering College**
+with a strong interest in software engineering, artificial intelligence,
+computer vision, cybersecurity, and open-source development.
 
-My projects focus on solving practical problems through:
+I enjoy building practical applications, understanding systems at a deeper
+level, testing their limitations, and improving their reliability.
 
-- Deep Learning and Computer Vision
-- Biometric Authentication
-- AI-based Security Applications
-- Plant Disease Detection
+My current areas of interest include:
+
+- Artificial Intelligence and Machine Learning
+- Computer Vision and Deep Learning
+- Biometric Authentication and Security
 - Python Backend Development
 - REST API Development
-- Database-driven Applications
+- Database Applications
+- Open Source Contribution
 
-I enjoy understanding how systems work internally, building them from scratch,
-testing their limitations, and improving their reliability.
-
-🎓 **B.Tech Information Technology:** 2023 – 2027  
-📊 **CGPA:** 7.14 / 10  
-💡 **Primary Language:** Python
+**Education:** B.Tech in Information Technology, 2023–2027  
+**CGPA:** 7.14 / 10  
+**Primary Language:** Python
 
 ---
 
-## 🏆 Certifications
+## Internship
 
-### Oracle Certified Agentic AI Foundations Associate
-**Issued:** July 2026
-
-
-### Oracle Cloud Infrastructure 2025 AI Foundations Associate
-**Issued:** August 2025
-
-
-### AWS Foundation Of Prompt Engineering
-**Issued:** August 2026
- 
-
----
-
-# 🚀 Featured Projects
-
-## 01. SecureFaceAuth
 ### Security Enhancement in Deep Learning Based Face Biometric Authentication
 
-**Internship Project — Jalpaiguri Government Engineering College**  
+**Jalpaiguri Government Engineering College**  
 **18 June – 18 July**
 
-🔗 **[View Project →](https://github.com/SwetaKumari7/SecureFaceAuth)**
+[View Project](https://github.com/SwetaKumari7/SecureFaceAuth)
 
-A deep learning based biometric authentication system designed for secure
-identity verification using facial biometrics.
+Developed a deep learning based face biometric authentication system focused
+on secure identity verification.
 
-### Key Work
+- Implemented face detection, image preprocessing, and biometric verification.
+- Developed authentication workflows with quality checks and threshold-based decisions.
+- Evaluated genuine and impostor verification performance using FAR, FRR, EER, and accuracy.
+- Worked on presentation attack detection concepts and security-oriented testing.
 
-- Developed a face biometric authentication workflow using Python and deep learning.
-- Implemented face detection and image preprocessing.
-- Added biometric verification and authentication decision logic.
-- Implemented image-quality and verification checks.
-- Evaluated genuine and impostor verification scores.
-- Analyzed **FAR, FRR, EER, accuracy, and verification thresholds**.
-- Worked on presentation attack detection concepts for improved authentication security.
-- Tested and debugged model inference and image-processing components.
-
-### Technologies
-
-`Python` `TensorFlow` `OpenCV` `Deep Learning` `Computer Vision`
-`Biometric Authentication` `Cybersecurity`
+**Technologies:** Python, TensorFlow, OpenCV, Deep Learning, Computer Vision
 
 ---
 
-## 02. AI ScamShield
-### AI-Based Scam and Fraud Detection System
+## Selected Projects
 
-An AI-based security application focused on identifying potentially suspicious
-and fraudulent content.
+### SecureFaceAuth
 
-### Key Work
+**Security Enhancement in Deep Learning Based Face Biometric Authentication**
 
-- Developed a machine-learning based scam detection workflow.
-- Implemented data processing and feature analysis.
-- Built prediction and result-generation components.
-- Focused on practical cybersecurity and fraud-detection use cases.
-- Tested model predictions and application behavior.
+[GitHub Repository](https://github.com/SwetaKumari7/SecureFaceAuth)
 
-### Technologies
+- Built a deep learning based face biometric authentication system.
+- Implemented preprocessing, verification, quality checks, and authentication workflows.
+- Evaluated FAR, FRR, EER, accuracy, and verification thresholds.
 
-`Python` `Machine Learning` `Scikit-learn` `Cybersecurity`
+**Technologies:** Python, TensorFlow, OpenCV, Deep Learning, Computer Vision
 
 ---
 
-## 03. BioMatch
-### Multimodal Biometric Authentication System
+### AI ScamShield
 
-A biometric authentication system combining **palmprint and handwritten
-signature recognition** for secure identity verification.
+**AI-Based Scam and Fraud Detection System**
 
-### Key Work
+- Developed an AI-based application for identifying potentially suspicious and fraudulent inputs.
+- Implemented data processing, feature analysis, prediction, and result generation.
+- Focused on practical applications of machine learning in cybersecurity.
 
-- Developed multimodal biometric enrollment and verification workflows.
-- Implemented image preprocessing and quality checks.
-- Combined palmprint and signature recognition.
-- Built verification-history functionality.
-- Used SQLite for user and verification data.
-- Implemented authentication thresholds and verification evaluation.
-
-### Technologies
-
-`Python` `Flask` `TensorFlow` `OpenCV` `SQLite`
-`Biometric Authentication` `Deep Learning`
+**Technologies:** Python, Machine Learning, Scikit-learn, Cybersecurity
 
 ---
 
-## 04. PlantGuard AI
-### Deep Learning Based Plant Disease Detection
+### BioMatch
 
-🔗 **[View Project →](https://github.com/SwetaKumari7/PlantGuard-AI)**
+**Multimodal Biometric Authentication System**
 
-A deep learning application for classifying plant diseases from leaf images.
+- Developed a biometric authentication system using palmprint and handwritten signature recognition.
+- Implemented enrollment, verification, image-quality checks, and verification history.
+- Built the application using Flask, TensorFlow, OpenCV, and SQLite.
 
-### Key Work
+**Technologies:** Python, Flask, TensorFlow, OpenCV, SQLite
 
-- Developed a CNN-based plant disease classification system.
-- Implemented image preprocessing and model inference.
-- Built a prediction workflow for plant leaf images.
+---
+
+### PlantGuard AI
+
+**Deep Learning Based Plant Disease Detection**
+
+[GitHub Repository](https://github.com/SwetaKumari7/PlantGuard-AI)
+
+- Developed a CNN-based plant disease classification application using leaf images.
+- Implemented image preprocessing, model inference, and prediction workflows.
 - Evaluated incorrect predictions and analyzed model limitations.
-- Developed a practical application interface around the trained model.
 
-### Technologies
-
-`Python` `TensorFlow` `Keras` `CNN`
-`Computer Vision` `OpenCV`
+**Technologies:** Python, TensorFlow, Keras, CNN, OpenCV
 
 ---
 
-## 05. AI Resume Analyzer
-### AI-Powered Resume Analysis and ATS Evaluation
+### AI Resume Analyzer
 
-🔗 **[View Project →](https://github.com/SwetaKumari7/AI-Resume-Analyzer)**
+**AI-Powered Resume Analysis and ATS Evaluation**
 
-An AI-powered application that analyzes resumes and provides structured
-feedback for technical job applications.
+[GitHub Repository](https://github.com/SwetaKumari7/AI-Resume-Analyzer)
 
-### Features
+- Built an AI-powered application for resume analysis and ATS-oriented evaluation.
+- Generates resume scores, missing skills, keyword analysis, and improvement suggestions.
+- Integrated PDF processing with an AI-powered analysis workflow.
 
-- ATS score analysis
-- Resume summary
-- Strength and weakness analysis
-- Missing skills and keywords
-- Project evaluation
-- Formatting review
-- Learning roadmap
-- Resume improvement suggestions
-- Interview question generation
-- Hiring recommendation
-
-### Technologies
-
-`Python` `Streamlit` `Google Gemini API`
-`Natural Language Processing` `PDF Processing`
+**Technologies:** Python, Streamlit, Google Gemini API, NLP, PDF Processing
 
 ---
 
-# 🛠️ Technical Skills
+## Technical Skills
 
-### Programming Languages
+**Languages**
 
-`Python` `C` `C++` `JavaScript` `SQL`
+Python, C, C++, JavaScript, SQL
 
-### Artificial Intelligence & Machine Learning
+**Artificial Intelligence and Machine Learning**
 
-`TensorFlow` `Keras` `Scikit-learn`  
-`Deep Learning` `CNN` `Image Classification` `Model Evaluation`
+TensorFlow, Keras, Scikit-learn, Deep Learning, CNN,
+Image Classification, Model Evaluation
 
-### Computer Vision & Security
+**Computer Vision and Security**
 
-`OpenCV` `Image Processing`  
-`Face Recognition` `Biometric Authentication`  
-`Palmprint Recognition` `Signature Recognition`  
-`Authentication Systems` `Cybersecurity`
+OpenCV, Image Processing, Face Recognition,
+Biometric Authentication, Palmprint Recognition,
+Signature Recognition, Authentication Systems, Cybersecurity
 
-### Backend & Web Development
+**Backend and Web Development**
 
-`Flask` `FastAPI` `Django`  
-`REST APIs` `HTML` `CSS` `JavaScript`
+Flask, FastAPI, Django, REST APIs, HTML, CSS, JavaScript
 
-### Databases
+**Databases**
 
-`MySQL` `SQLite` `SQL`
+MySQL, SQLite, SQL
 
-### Tools & Platforms
+**Tools and Platforms**
 
-`Git` `GitHub` `VS Code` `Linux/UNIX` `Google Colab`
+Git, GitHub, VS Code, Linux/UNIX, Google Colab
 
 ---
 
-# 📚 Computer Science Fundamentals
+## Computer Science Fundamentals
 
-- Data Structures and Algorithms
-- Object-Oriented Programming
-- Operating Systems
-- Computer Networks
-- Database Management Systems
-- Software Engineering
-- Problem Solving
+Data Structures and Algorithms • Object-Oriented Programming •
+Operating Systems • Computer Networks • Database Management Systems •
+Software Engineering • Problem Solving
 
 ---
 
-# 🏅 Achievements
+## Certifications
+
+**Oracle Certified Agentic AI Foundations Associate**  
+July 2026
+
+**AWS Training & Certification — Foundations of Prompt Engineering**  
+August 2026
+
+**Oracle Cloud Infrastructure 2025 AI Foundations Associate**  
+August 2025
+
+---
+
+## Open Source
+
+I am interested in **open-source software development and collaboration**,
+with a focus on learning from existing projects, improving documentation,
+fixing issues, and contributing practical solutions.
+
+I am currently exploring open-source contribution opportunities in
+**Python, AI/ML, computer vision, cybersecurity, and developer tools**.
+
+---
+
+## Achievements
 
 - Participated in **Smart India Hackathon (SIH)**.
-- Active problem-solving practice on **GeeksforGeeks** and **HackerRank**.
-- Built multiple practical applications across AI, computer vision,
-  cybersecurity, and software development.
+- Active problem-solving practice on GeeksforGeeks and HackerRank.
+- Developed practical projects across AI, computer vision, cybersecurity,
+  biometric authentication, and software development.
 
 ---
 
-# 🎯 Current Focus
-
-I am currently strengthening my skills in:
+## Current Focus
 
 ```text
 Data Structures & Algorithms
-        ↓
+        |
+        v
 Python & Software Engineering
-        ↓
+        |
+        v
 Backend Development
-        ↓
+        |
+        v
 AI / Machine Learning
-        ↓
+        |
+        v
 Computer Vision & Cybersecurity
+        |
+        v
+Open Source Contribution
