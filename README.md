@@ -47,7 +47,7 @@ My current areas of interest include:
 
 ### Security Enhancement in Deep Learning Based Face Biometric Authentication
 
-**18 June – 18 July**
+
 
 [View Project](https://github.com/SwetaKumari7/SecureFaceAuth)
 
