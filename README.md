@@ -11,7 +11,7 @@ B.Tech Information Technology student interested in building practical software 
 [GitHub](https://github.com/SwetaKumari7) •
 [LinkedIn](https://www.linkedin.com/in/verma-sweta-4211a640/) •
 [Email](mailto:sk6491388@gmail.com)•
-[Discord](discordapp.com/users/1546971162272333957) 
+[Discord](Username:sweta_kumari_59165) 
 
 </div>
 
