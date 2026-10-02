@@ -4,7 +4,7 @@
 
 **B.Tech Information Technology | Software Engineering Fresher**
 
-**Python | Rust | AI/ML | Computer Vision | Cybersecurity | Open Source**
+**Python Full Stack Developer/AI/ML enthusiast **
 
 B.Tech Information Technology student interested in building practical software systems across artificial intelligence, computer vision, backend development, cybersecurity, and open-source software.
 
