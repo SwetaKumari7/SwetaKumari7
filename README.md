@@ -1,33 +1,224 @@
-
 <div align="center">
-SWETA KUMARI
-AI/ML • Software Development • Problem Solving
-Building practical projects at the intersection of intelligent systems and software.
 
+# Sweta Kumari
 
-<a href="https://swetakumari7.github.io/sweta-flappy-bird/"> <img src="https://img.shields.io/badge/▶%20PLAY-FLAPPY%20FLIGHT-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play Flappy Flight"/> </a> &nbsp; <a href="https://github.com/SwetaKumari7?tab=repositories"> <img src="https://img.shields.io/badge/EXPLORE-PROJECTS-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/> </a>
+**B.Tech Information Technology | Software Engineering Fresher**
 
+**Python Full Stack Developer/AI/ML enthusiast **
 
+B.Tech Information Technology student interested in building practical software systems across artificial intelligence, computer vision, backend development, cybersecurity, and open-source software.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=7C3AED" alt="purple divider"/> </div>
-About
-I'm a final-year B.Tech Information Technology student at Asansol Engineering College, graduating in 2027. I enjoy turning ideas into working projects and exploring how machine learning can solve real-world problems.
-
-Focus areas: Artificial Intelligence, Machine Learning, and software development
-Currently strengthening: problem-solving, data structures, and practical engineering skills
-Approach: learn by building, test ideas, and keep improving
-Featured Projects
-<table> <tr> <td width="50%" valign="top"> <h3>🔐 Biometric Authentication</h3> Exploring a secure face-authentication pipeline using deep-learning features and cryptographic techniques. <br/><br/> <strong>Focus:</strong> CNN, FaceNet, OpenCV, authentication </td> <td width="50%" valign="top"> <h3>🧬 Skin Disease Classification</h3> An image-classification project using EfficientNet-B4 to study skin-lesion categories. <br/><br/> <strong>Focus:</strong> EfficientNet-B4, deep learning, image preprocessing </td> </tr> <tr> <td width="50%" valign="top"> <h3>🕵️ Fake Social Profile Detection</h3> A project developed in the context of the Smart India Hackathon to explore suspicious social-media profile detection. <br/><br/> <strong>Focus:</strong> machine learning, feature analysis, classification </td> <td width="50%" valign="top"> <h3>🐦 Flappy Flight</h3> A lightweight browser game you can play directly—no installation needed. <br/><br/> <a href="https://swetakumari7.github.io/sweta-flappy-bird/"><strong>▶ Play the game</strong></a> &nbsp;·&nbsp; <a href="https://github.com/SwetaKumari7/sweta-flappy-bird">View source</a> </td> </tr> </table>
-Tech Stack
-<p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/> <img src="https://img.shields.io/badge/Machine%20Learning-0F766E?style=flat-square" alt="Machine Learning"/> <img src="https://img.shields.io/badge/Deep%20Learning-6D28D9?style=flat-square" alt="Deep Learning"/> <img src="https://img.shields.io/badge/Data%20Preprocessing-475569?style=flat-square" alt="Data preprocessing"/> <img src="https://img.shields.io/badge/Model%20Evaluation-334155?style=flat-square" alt="Model evaluation"/> </p>
-GitHub
-<div align="center"> <a href="https://github.com/SwetaKumari7"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=SwetaKumari7&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Sweta's GitHub statistics"/> </a> <a href="https://github.com/SwetaKumari7"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwetaKumari7&layout=compact&hide_border=true&theme=transparent" alt="Most-used languages"/> </a>
-<a href="https://github.com/SwetaKumari7?tab=followers"> <img src="https://img.shields.io/github/followers/SwetaKumari7?label=Followers&style=social" alt="GitHub followers"/> </a> &nbsp; <a href="https://github.com/SwetaKumari7?tab=repositories"> <img src="https://img.shields.io/badge/Explore-My%20Repositories-7C3AED?style=flat-square&logo=github&logoColor=white" alt="Explore repositories"/> </a> </div>
-Let's Connect
-If you're interested in AI/ML projects, collaboration, or exchanging ideas, feel free to connect through GitHub.
-
-<div align="center">
-Build. Learn. Improve. Repeat.
+[GitHub](https://github.com/SwetaKumari7) •
+[LinkedIn](https://www.linkedin.com/in/verma-sweta-4211a640/) •
+[Email](mailto:sk6491388@gmail.com)•
+[Discord](Username:sweta_kumari_59165) 
 
 </div>
-⋮⋮⋮⋮
+
+---
+
+## About
+
+I am a B.Tech Information Technology student at **Asansol Engineering College**, interested in software engineering, artificial intelligence, computer vision, cybersecurity, and open-source development.
+
+I enjoy building practical applications, understanding how systems work, testing their limitations, and improving their reliability.
+
+My current areas of interest include:
+
+* Software Engineering
+* Artificial Intelligence and Machine Learning
+* Computer Vision and Deep Learning
+* Biometric Authentication and Security
+* Python Backend Development
+* Rust Development
+* REST API Development
+* Database Applications
+* Open Source Contribution
+
+**Education:** B.Tech in Information Technology, 2023–2027
+**CGPA:** 7.14 / 10
+**Primary Language:** Python
+
+---
+
+## Internship
+
+### Security Enhancement in Deep Learning-Based Face Biometric Authentication
+
+
+Developed a deep learning-based face biometric authentication system focused on secure identity verification.
+
+* Implemented face detection, image preprocessing, and biometric verification.
+* Developed authentication workflows with quality checks and threshold-based decisions.
+* Evaluated genuine and impostor verification performance using FAR, FRR, EER, and accuracy.
+* Explored presentation attack detection concepts and security-oriented testing.
+
+**Technologies:** Python, TensorFlow, OpenCV, Deep Learning, Computer Vision
+
+---
+
+## Selected Projects
+
+### AI ScamShield
+
+**AI-Based Scam and Fraud Detection System**
+
+* Developed an AI-based application for identifying potentially suspicious and fraudulent messages.
+* Implemented data preprocessing, security-feature extraction, classification, risk analysis, and explanations.
+* Focused on applying machine learning to practical cybersecurity problems.
+
+**Technologies:** Python, Machine Learning, Scikit-learn, Flask, Cybersecurity
+
+---
+
+### BioMatch
+
+**Multimodal Biometric Authentication System**
+
+* Developed a biometric authentication system using palmprint and handwritten signature recognition.
+* Implemented enrollment, verification, image-quality checks, and verification history.
+* Built application workflows using Flask, TensorFlow, OpenCV, and SQLite.
+
+**Technologies:** Python, Flask, TensorFlow, OpenCV, SQLite
+
+---
+
+### PlantGuard AI
+
+**Deep Learning-Based Plant Disease Detection**
+
+[GitHub Repository](https://github.com/SwetaKumari7/PlantGuard-AI)
+
+* Developed a CNN-based plant disease classification application using leaf images.
+* Implemented image preprocessing, model inference, and prediction workflows.
+* Evaluated incorrect predictions and analyzed model limitations.
+
+**Technologies:** Python, TensorFlow, Keras, CNN, OpenCV
+
+---
+
+### AI Resume Analyzer
+
+**AI-Powered Resume Analysis and Career Guidance System**
+
+[GitHub Repository](https://github.com/SwetaKumari7/AI-Resume-Analyzer)
+
+* Built an AI-powered application for analyzing resumes against target job roles.
+* Identifies relevant skills, missing skills, and areas for improvement.
+* Supports career-oriented analysis using document processing, retrieval, and AI-powered responses.
+* Designed the system to support both technical and non-technical job roles.
+
+**Technologies:** Python, Streamlit, Google Gemini API, NLP, RAG, PDF Processing
+
+---
+
+## Open Source
+
+I actively explore open-source software development and collaboration by working with existing codebases, understanding project structure, improving documentation, fixing issues, and submitting contributions.
+
+Recent contribution work has included projects involving **Python and Rust**, giving me practical experience working with unfamiliar repositories, Git branches, upstream repositories, testing, and pull requests.
+
+Areas I am currently exploring:
+
+* Python
+* Rust
+* AI/ML
+* Computer Vision
+* Cybersecurity
+* Developer Tools
+
+---
+
+## Technical Skills
+
+### Languages
+
+Python, Rust, C, C++, JavaScript, SQL
+
+### Artificial Intelligence and Machine Learning
+
+TensorFlow, Keras, Scikit-learn, Deep Learning, CNN, Image Classification, Model Evaluation
+
+### Computer Vision and Security
+
+OpenCV, Image Processing, Face Recognition, Biometric Authentication, Palmprint Recognition, Signature Recognition, Authentication Systems, Cybersecurity
+
+### Backend and Web Development
+
+Flask, FastAPI, Django, REST APIs, HTML, CSS, JavaScript
+
+### Databases
+
+MySQL, SQLite, SQL
+
+### Tools and Platforms
+
+Git, GitHub, VS Code, Linux/UNIX, Google Colab
+
+---
+
+## Computer Science Fundamentals
+
+* Data Structures and Algorithms
+* Object-Oriented Programming
+* Operating Systems
+* Computer Networks
+* Database Management Systems
+* Software Engineering
+* Problem Solving
+
+---
+
+## Certifications
+
+**Oracle Certified Agentic AI Foundations Associate**
+July 2026
+
+**AWS Training & Certification — Foundations of Prompt Engineering**
+August 2026
+
+**Oracle Cloud Infrastructure 2025 AI Foundations Associate**
+August 2025
+
+---
+
+## Achievements
+
+* Participated in **Smart India Hackathon (SIH)**.
+* Active problem-solving practice on GeeksforGeeks and HackerRank.
+* Built practical projects across AI, computer vision, cybersecurity, biometric authentication, and software development.
+* Gained hands-on open-source contribution experience through Git, GitHub, pull requests, testing, and working with existing codebases.
+
+---
+
+## Current Focus
+
+```text
+Data Structures & Algorithms
+            |
+            v
+Python & Rust
+            |
+            v
+Software Engineering
+            |
+            v
+Backend Development
+            |
+            v
+AI / Machine Learning
+            |
+            v
+Computer Vision & Cybersecurity
+            |
+            v
+Open Source Contribution
+```
+
+---
+
+## GitHub Activity
+
+I use GitHub to build projects, experiment with technologies, practice software engineering, and contribute to open-source projects.
+
+**GitHub:** [github.com/SwetaKumari7](https://github.com/SwetaKumari7)
