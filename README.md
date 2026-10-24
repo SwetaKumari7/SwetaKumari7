@@ -1,224 +1,162 @@
-<div align="center">
+# Hi, I'm Sweta Kumari 
 
-# Sweta Kumari
+### Software Engineering Fresher | Python Developer | AI/ML Enthusiast
 
-**B.Tech Information Technology | Software Engineering Fresher**
+I'm a B.Tech Information Technology student at **Asansol Engineering College (2023–2027)** who enjoys building practical software, exploring intelligent systems, and learning through open-source contributions.
 
-**Python Full Stack Developer/AI/ML enthusiast **
+My interests span Python development, artificial intelligence, computer vision, cybersecurity, and backend engineering. I like understanding existing systems, experimenting with solutions, and improving code through hands-on practice.
 
-B.Tech Information Technology student interested in building practical software systems across artificial intelligence, computer vision, backend development, cybersecurity, and open-source software.
-
-[GitHub](https://github.com/SwetaKumari7) •
-[LinkedIn](https://www.linkedin.com/in/verma-sweta-4211a640/) •
-[Email](mailto:sk6491388@gmail.com)•
-[Discord](Username:sweta_kumari_59165) 
-
-</div>
+-  **Education:** B.Tech in Information Technology, 2023–2027
+-  **Primary language:** Python
+-  **Exploring:** Backend development, AI/ML, computer vision, and Rust
+-  **Currently improving:** Data structures and algorithms, software engineering, and open-source collaboration
+-  **Interested in:** Software development opportunities and meaningful open-source projects
 
 ---
 
-## About
+##  Featured Projects
 
-I am a B.Tech Information Technology student at **Asansol Engineering College**, interested in software engineering, artificial intelligence, computer vision, cybersecurity, and open-source development.
+### 1. AI ScamShield
+**Machine Learning for Scam and Suspicious Message Detection**
 
-I enjoy building practical applications, understanding how systems work, testing their limitations, and improving their reliability.
+A Python-based project focused on identifying potentially fraudulent messages using machine learning and security-oriented features.
 
-My current areas of interest include:
+- Processes message text and extracts useful classification features.
+- Categorizes messages according to their estimated risk.
+- Explores the application of machine learning to practical cybersecurity problems.
 
-* Software Engineering
-* Artificial Intelligence and Machine Learning
-* Computer Vision and Deep Learning
-* Biometric Authentication and Security
-* Python Backend Development
-* Rust Development
-* REST API Development
-* Database Applications
-* Open Source Contribution
+**Technologies:** Python, Scikit-learn, TF-IDF, Flask, Machine Learning
 
-**Education:** B.Tech in Information Technology, 2023–2027
-**CGPA:** 7.14 / 10
-**Primary Language:** Python
+### 2. BioMatch
+**Multimodal Palmprint and Signature Authentication**
 
----
+A biometric authentication project combining palmprint and handwritten signature recognition.
 
-## Internship
-
-### Security Enhancement in Deep Learning-Based Face Biometric Authentication
-
-
-Developed a deep learning-based face biometric authentication system focused on secure identity verification.
-
-* Implemented face detection, image preprocessing, and biometric verification.
-* Developed authentication workflows with quality checks and threshold-based decisions.
-* Evaluated genuine and impostor verification performance using FAR, FRR, EER, and accuracy.
-* Explored presentation attack detection concepts and security-oriented testing.
-
-**Technologies:** Python, TensorFlow, OpenCV, Deep Learning, Computer Vision
-
----
-
-## Selected Projects
-
-### AI ScamShield
-
-**AI-Based Scam and Fraud Detection System**
-
-* Developed an AI-based application for identifying potentially suspicious and fraudulent messages.
-* Implemented data preprocessing, security-feature extraction, classification, risk analysis, and explanations.
-* Focused on applying machine learning to practical cybersecurity problems.
-
-**Technologies:** Python, Machine Learning, Scikit-learn, Flask, Cybersecurity
-
----
-
-### BioMatch
-
-**Multimodal Biometric Authentication System**
-
-* Developed a biometric authentication system using palmprint and handwritten signature recognition.
-* Implemented enrollment, verification, image-quality checks, and verification history.
-* Built application workflows using Flask, TensorFlow, OpenCV, and SQLite.
+- Implements enrollment and verification workflows.
+- Incorporates image-quality checks and threshold-based decisions.
+- Uses a database to manage application and verification information.
 
 **Technologies:** Python, Flask, TensorFlow, OpenCV, SQLite
 
----
+### 3. PlantGuard AI
+**Deep Learning-Based Plant Disease Classification**
 
-### PlantGuard AI
+An image-classification project exploring how deep learning can identify plant diseases from leaf images.
 
-**Deep Learning-Based Plant Disease Detection**
+- Processes leaf images for model inference.
+- Applies convolutional neural networks to image classification.
+- Explores practical applications of computer vision in agriculture.
 
-[GitHub Repository](https://github.com/SwetaKumari7/PlantGuard-AI)
-
-* Developed a CNN-based plant disease classification application using leaf images.
-* Implemented image preprocessing, model inference, and prediction workflows.
-* Evaluated incorrect predictions and analyzed model limitations.
+**Repository:** [PlantGuard-AI](https://github.com/SwetaKumari7/PlantGuard-AI)
 
 **Technologies:** Python, TensorFlow, Keras, CNN, OpenCV
 
----
+### 4. AI Resume Analyzer
+**AI-Assisted Resume Analysis and Career Guidance**
 
-### AI Resume Analyzer
+An application designed to help users understand their resumes and identify areas for improvement in relation to potential job roles.
 
-**AI-Powered Resume Analysis and Career Guidance System**
+- Supports resume analysis and skill-gap identification.
+- Uses document processing and AI-assisted responses.
+- Explores career guidance for technical and non-technical roles.
 
-[GitHub Repository](https://github.com/SwetaKumari7/AI-Resume-Analyzer)
+**Repository:** [AI-Resume-Analyzer](https://github.com/SwetaKumari7/AI-Resume-Analyzer)
 
-* Built an AI-powered application for analyzing resumes against target job roles.
-* Identifies relevant skills, missing skills, and areas for improvement.
-* Supports career-oriented analysis using document processing, retrieval, and AI-powered responses.
-* Designed the system to support both technical and non-technical job roles.
+**Technologies:** Python, NLP, PDF Processing, Retrieval-Augmented Generation (RAG), Google Gemini API
 
-**Technologies:** Python, Streamlit, Google Gemini API, NLP, RAG, PDF Processing
+### 5. SecureFaceAuthX
+**Face Biometric Authentication and Security**
 
----
+A computer-vision project exploring face-based identity verification, biometric embeddings, and security-oriented evaluation.
 
-## Open Source
+- Works with face embeddings for identity verification.
+- Explores protected storage of biometric templates.
+- Investigates authentication reliability and security evaluation.
 
-I actively explore open-source software development and collaboration by working with existing codebases, understanding project structure, improving documentation, fixing issues, and submitting contributions.
-
-Recent contribution work has included projects involving **Python and Rust**, giving me practical experience working with unfamiliar repositories, Git branches, upstream repositories, testing, and pull requests.
-
-Areas I am currently exploring:
-
-* Python
-* Rust
-* AI/ML
-* Computer Vision
-* Cybersecurity
-* Developer Tools
+**Technologies:** Python, FaceNet, TensorFlow, OpenCV, Computer Vision
 
 ---
 
-## Technical Skills
+##  Open-Source Contributions
 
-### Languages
+I contribute to open-source projects to learn from real codebases, collaborate through pull requests, and improve existing software.
 
-Python, Rust, C, C++, JavaScript, SQL
+### Koharu — Rectangle Layer Selection
 
-### Artificial Intelligence and Machine Learning
+**[PR #1148](https://github.com/koharu-rs/koharu/pull/1148)**
 
-TensorFlow, Keras, Scikit-learn, Deep Learning, CNN, Image Classification, Model Evaluation
+Contributed a rectangle-based layer selection feature to the Koharu editor.
 
-### Computer Vision and Security
+**Milestone:** The feature is listed in the Koharu **v0.84.0 release notes**.
 
-OpenCV, Image Processing, Face Recognition, Biometric Authentication, Palmprint Recognition, Signature Recognition, Authentication Systems, Cybersecurity
+### TheAlgorithms/Python
 
-### Backend and Web Development
+**[PR #15335](https://github.com/TheAlgorithms/Python/pull/15335)**
 
-Flask, FastAPI, Django, REST APIs, HTML, CSS, JavaScript
+Contributed a test improvement for insertion sort, checking that the algorithm modifies the input collection as expected.
 
-### Databases
+### 100LinesOfCode / Face_Detection
 
-MySQL, SQLite, SQL
+**[PR #617](https://github.com/100LinesOfCode/Face_Detection/pull/617)**
 
-### Tools and Platforms
+Contributed documentation improvements to the face-detection project, including README and notebook-related guidance.
 
-Git, GitHub, VS Code, Linux/UNIX, Google Colab
-
----
-
-## Computer Science Fundamentals
-
-* Data Structures and Algorithms
-* Object-Oriented Programming
-* Operating Systems
-* Computer Networks
-* Database Management Systems
-* Software Engineering
-* Problem Solving
+Through these contributions, I've gained experience with Git branches, pull requests, repository structure, documentation, tests, and working with unfamiliar codebases.
 
 ---
 
-## Certifications
+##  Technical Skills
 
-**Oracle Certified Agentic AI Foundations Associate**
-July 2026
+| Category | Technologies and Concepts |
+|---|---|
+| Languages | Python, C, C++, JavaScript, SQL, Rust |
+| AI & Machine Learning | TensorFlow, Keras, Scikit-learn, CNNs, model evaluation |
+| Computer Vision | OpenCV, image processing, face recognition, biometric authentication |
+| Backend Development | Flask, FastAPI, Django, REST APIs |
+| Web Development | HTML, CSS, JavaScript |
+| Databases | SQLite, MySQL |
+| Tools | Git, GitHub, VS Code, Google Colab |
+| Core CS | Data Structures and Algorithms, OOP, DBMS, Operating Systems, Computer Networks |
 
-**AWS Training & Certification — Foundations of Prompt Engineering**
-August 2026
-
-**Oracle Cloud Infrastructure 2025 AI Foundations Associate**
-August 2025
-
----
-
-## Achievements
-
-* Participated in **Smart India Hackathon (SIH)**.
-* Active problem-solving practice on GeeksforGeeks and HackerRank.
-* Built practical projects across AI, computer vision, cybersecurity, biometric authentication, and software development.
-* Gained hands-on open-source contribution experience through Git, GitHub, pull requests, testing, and working with existing codebases.
+*My experience varies by technology; I'm continuing to strengthen these skills through projects and practice.*
 
 ---
 
-## Current Focus
+##  Certifications
 
-```text
-Data Structures & Algorithms
-            |
-            v
-Python & Rust
-            |
-            v
-Software Engineering
-            |
-            v
-Backend Development
-            |
-            v
-AI / Machine Learning
-            |
-            v
-Computer Vision & Cybersecurity
-            |
-            v
-Open Source Contribution
-```
+- **Oracle Certified Agentic AI Foundations Associate** — July 2026
+- **AWS Training & Certification: Foundations of Prompt Engineering** — August 2026
+- **Oracle Cloud Infrastructure 2025 AI Foundations Associate** — August 2025
 
 ---
 
-## GitHub Activity
+##  Beyond Projects
 
-I use GitHub to build projects, experiment with technologies, practice software engineering, and contribute to open-source projects.
+- Participated in Smart India Hackathon (SIH).
+- Practice problem-solving through coding platforms.
+- Explore software engineering concepts by reading and contributing to existing projects.
+- Interested in building useful applications at the intersection of AI, security, and software development.
 
-**GitHub:** [github.com/SwetaKumari7](https://github.com/SwetaKumari7)
+---
+
+##  What I'm Working Toward
+
+- Strengthening problem-solving and DSA fundamentals.
+- Building reliable Python backend applications.
+- Improving my understanding of AI/ML and computer vision.
+- Learning from maintainers and contributing more consistently to open source.
+- Preparing for entry-level software engineering opportunities.
+
+---
+
+##  Let's Connect
+
+- **GitHub:** [SwetaKumari7](https://github.com/SwetaKumari7)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/verma-sweta-4211a640/)
+- **Email:** [sk6491388@gmail.com](mailto:sk6491388@gmail.com)
+- **HackerRank:** [swetakumari22051](https://www.hackerrank.com/profile/swetakumari22051)
+- **GeeksforGeeks:** [wbsweta608z](https://www.geeksforgeeks.org/profile/wbsweta608z)
+
+---
+
+*Learning by building, improving through feedback, and contributing one commit at a time.*
